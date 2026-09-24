@@ -1,6 +1,6 @@
 server = {
     "name": "SRVSOUTH01",
-    "cpu": 75,
+    "cpu": 95,
     "memory": 68,
     "disk": 45
 }
